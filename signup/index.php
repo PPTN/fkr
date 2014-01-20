@@ -59,7 +59,7 @@ a.btn-large { font: 200% Scheherazade; margin-top:10px }
 <h1>قيّدناك</h1>
 
 <p>
-توّة يجيك ميْل يفسّرلك شتعمل في حالة تعرضك لتتبعات عدليّة في جرّة المكيّة الفكريّة. كان تحب تعاون غيرك 
+توّة يجيك ميْل يفسّرلك شتعمل في حالة تعرضك لتتبعات عدليّة في جرّة الملكيّة الفكريّة. كان تحب تعاون غيرك 
 <a class="btn" href="https://www.facebook.com/sharer/sharer.php?u=fkr.pirate.tn"><img src="../img/FB.png" /> أنشر المعلومة </a>
 </p>
 </div>
