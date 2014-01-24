@@ -48,7 +48,7 @@ a.btn-large { font: 200% Scheherazade; margin-top:10px }
               <li><a href="mailto:fkr2012@googlegroups.com">اتّصل بنا</a></li>
               <li><a href="../index.xhtml#about">من أنتم؟</a></li>
             </ul>
-	  <a class="btn btn-primary pull-right" href="/fkr-tableRonde.pdf"><i class="icon-calendar icon-white"></i> بلاغ حزب القراصنة</a>
+	  <a class="btn btn-primary pull-right" href="http://press.pirate.tn/2014/01/blog-post.html"><i class="icon-calendar icon-white"></i> بلاغ حزب القراصنة</a>
           </div><!--/.nav-collapse -->
         </div>
       </div>
