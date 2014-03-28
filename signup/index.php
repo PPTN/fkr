@@ -1,9 +1,10 @@
 <?php
 	require "../ini.php";
 	try {
-		$q = $db->prepare('INSERT into users (id, email, phone, name) values (:id, :email, :phone, :name)');
+		$q = $db->prepare('INSERT into users (id, email, job, phone, name) values (:id, :email, :job, :phone, :name)');
 		$q->bindValue(':id', sha1($_POST['email']));
 		$q->bindValue(':email', $_POST['email']);
+		$q->bindValue(':job', $_POST['job']);
 		$q->bindValue(':phone', $_POST['phone']);
 		$q->bindValue(':name', $_POST['name']);
 		$q->execute();
